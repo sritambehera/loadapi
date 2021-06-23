@@ -1,5 +1,5 @@
-Markup :  # API #
+# API #
 
-Markup : **This API is created using spring and postgresql.**
+**This API is created using spring and postgresql.**
 
-Markup :  It has CRUD operations in it.
+It has CRUD operations in it.
